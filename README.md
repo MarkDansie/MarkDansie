@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**MarkDansie/MarkDansie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on developing the colo site assessment Excel for use in the OCP Ready Program and in other sub-projects within the OCP data center facility project...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on projects involving Open Source and OCP...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Open Compute project Foundation (OCP)
+- 📫 How to reach me: mark.dansie@opencompute.org
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I was a beach volleyball line judge in the London 2012 Olympics
+-->
